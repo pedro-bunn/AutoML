@@ -1,0 +1,10 @@
+Este repositório é fruto de um trabalho acadêmico produzido no Instituto Federal de Santa
+Catarina pelo graduando em engenharia mecatrônica Pedro Henrique Bunn Schmitt com o tema
+da predição da temperatura de rotores para um dataset de motor elétrico.
+
+Nesta repositório são apresentadas 3 pastas, a primeira com os treinos das bibliotecas 
+de AutoML para encontro dos melhores algorítmos de Machine Learning encontrados a partir
+dos parâmetros estipulados pelo auto. A segunda pasta com o testes para encontro da acurácia
+deste algorítmos aplicados no dataset de motores elétrico e a terceita pasta que possui
+todos os "Rascunhos" de códigos criados até o final da pesquisa.
+ 
