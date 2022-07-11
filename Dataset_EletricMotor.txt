@@ -1,0 +1,2 @@
+Local para encontro do Dataset utilizado na pesquisa.
+https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature
